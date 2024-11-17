@@ -1,0 +1,19 @@
+current directory: /Users/211586/Documents/MyPersonal/DoctADM/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+/Users/211586/.rbenv/versions/3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/211586/Documents/MyPersonal/DoctADM/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241027-83619-8u3xkb sitelibdir\=./.gem.20241027-83619-8u3xkb clean
+
+current directory: /Users/211586/Documents/MyPersonal/DoctADM/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241027-83619-8u3xkb sitelibdir\=./.gem.20241027-83619-8u3xkb
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/211586/Documents/MyPersonal/DoctADM/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241027-83619-8u3xkb sitelibdir\=./.gem.20241027-83619-8u3xkb install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20241027-83619-8u3xkb
+
+current directory: /Users/211586/Documents/MyPersonal/DoctADM/vendor/bundle/ruby/3.2.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20241027-83619-8u3xkb sitelibdir\=./.gem.20241027-83619-8u3xkb clean
